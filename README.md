@@ -1,5 +1,5 @@
 # awesome-coronavirus19-dataset
-This repository contains resource related to COVID-19.
+This repository contains resources related to COVID-19.
 
 ## Dataset
 
@@ -16,12 +16,20 @@ This repository contains resource related to COVID-19.
 - [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs): The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.
 
 ### Others
+- [CSSE COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data): Daily case reports
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number. 
+- [stayinghomeclub](https://github.com/phildini/stayinghomeclub):  List of companies that are taking steps to address the spread of COVID-19.
 
+## Tools
 
-## Crawl tools
+### News Crawl
 - [coronavirus-news](https://github.com/alext234/coronavirus-news): This repository is an automated bot that scrape news headlines and track if they are related to corona-virus.
 
+### Dashboard
+- [ Johns Hopkins CSSE COVID-19](https://github.com/CSSEGISandData/COVID-19):  interactive web-based dashboard (static snapshot shown above) hosted by the Center for Systems to visualize and track reported cases in real-time.
+
+### Awesome Resipority 
+- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus): 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
