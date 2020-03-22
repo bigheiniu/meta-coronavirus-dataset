@@ -1,5 +1,5 @@
 # awesome-coronavirus19-dataset
-This repository contains resource related to COVID-19
+This repository contains resource related to COVID-19.
 
 ## Dataset
 
@@ -22,3 +22,6 @@ This repository contains resource related to COVID-19
 
 ## Crawl tools
 - [coronavirus-news](https://github.com/alext234/coronavirus-news): This repository is an automated bot that scrape news headlines and track if they are related to corona-virus.
+
+## Contributing
+Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
