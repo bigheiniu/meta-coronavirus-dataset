@@ -1,7 +1,6 @@
 # awesome-coronavirus19-dataset
 This repository contains resources related to COVID-19.
 
-## Dataset
 
 ### Academics
 - [covid-19-social-science-research](https://github.com/natematias/covid-19-social-science-research/):This resource is designed to help us track new social research about COVID 19, including published findings, pre-prints, projects underway, and projects that are at least at a solid proposal stage.
@@ -21,15 +20,6 @@ This repository contains resources related to COVID-19.
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number. 
 - [stayinghomeclub](https://github.com/phildini/stayinghomeclub):  List of companies that are taking steps to address the spread of COVID-19.
 
-## Tools
 
-### News Crawl
-- [coronavirus-news](https://github.com/alext234/coronavirus-news): This repository is an automated bot that scrape news headlines and track if they are related to corona-virus.
-
-### Dashboard
-- [ Johns Hopkins CSSE COVID-19](https://github.com/CSSEGISandData/COVID-19):  interactive web-based dashboard (static snapshot shown above) hosted by the Center for Systems to visualize and track reported cases in real-time.
-
-### Awesome Resipority 
-- [awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus): 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
