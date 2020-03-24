@@ -14,7 +14,7 @@ This repository contains resources related to COVID-19.
 
 ### Social data
 - [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs): The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.
-
+- [Coronavirus Tweet Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB): This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) from the Twitter API using Social Feed Manager.
 ### Others
 - [CSSE COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data): Daily case reports
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
