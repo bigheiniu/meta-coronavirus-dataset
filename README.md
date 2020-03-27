@@ -11,7 +11,7 @@ This repository contains resources related to COVID-19.
 - [PoliticalFact fact checked](https://www.politifact.com/coronavirus/): PolitiFact has fact-checked a lot of popular social media posts about the virus, including fake coronavirus cures, false news reports and conspiracy theories about the spread. 
 - [Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/):  All the news and information sites in the U.S., the U.K., France, Italy, and Germany that published materially false information about the virus found by [NewsGuard](www.newsguardtech.com) .  
 
-### Social data
+### Twitter
 - [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs): The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.
 - [Coronavirus Tweet Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB): This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) from the Twitter API using Social Feed Manager.
 - [Crowdbreaks](https://www.crowdbreaks.org/en/data_sharing): Tweets with keywords that related to specific health topics. The system is designed to track trends about health and disease-related issues in real-time across different countries. 
