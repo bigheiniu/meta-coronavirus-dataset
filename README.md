@@ -22,6 +22,8 @@ This repository contains resources related to COVID-19.
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number. 
 - [stayinghomeclub](https://github.com/phildini/stayinghomeclub):  List of companies that are taking steps to address the spread of COVID-19.
 - [nCoV2019](https://github.com/beoutbreakprepared/nCoV2019):  Individual-level data from national, provincial, and municipal health reports, as well as additional information from online reports. All data are geo-coded and, where available, include symptoms, key dates (date of onset, admission, and confirmation), and travel history. 
+- [COVID-19_US_County-level_Summaries](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries): We gather a machine readable dataset related to socioeconomic factors that may affect the spread and/or consequences of epidemiological outbreaks, particularly the novel coronavirus (COVID-19).
+- [C3.ai COVID-19 Data Lake](https://c3.ai/covid): A unified, open data image of critical COVID-19 data publicly available at no cost to the global research community beginning on April 13, 2020.
 
 
 ## Contributing
