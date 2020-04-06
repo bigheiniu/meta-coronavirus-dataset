@@ -24,12 +24,10 @@ This repository contains resources related to COVID-19.
 - [nCoV2019](https://github.com/beoutbreakprepared/nCoV2019):  Individual-level data from national, provincial, and municipal health reports, as well as additional information from online reports. All data are geo-coded and, where available, include symptoms, key dates (date of onset, admission, and confirmation), and travel history. 
 - [COVID-19_US_County-level_Summaries](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries): We gather a machine readable dataset related to socioeconomic factors that may affect the spread and/or consequences of epidemiological outbreaks, particularly the novel coronavirus (COVID-19).
 - [C3.ai COVID-19 Data Lake](https://c3.ai/covid): A unified, open data image of critical COVID-19 data publicly available at no cost to the global research community beginning on April 13, 2020.
-
--[US COVID-19 Daily Cases with Basemap]:(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIDLTK):  It contains COVID-19 Daily Cases with US basemap, including state and county-level data. However, for the county-level recovered data, it is available till March 17, 2020.
-
--[Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
--[Policies and Regulations Timeline ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OAM2JK):Policies and regulations released by the Chinese government, global organizations, western countries, and so on. 
--[China Health Facilities ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRSGT3):Health facilities POI, such as the hospital in China.
+- [US COVID-19 Daily Cases with Basemap]:(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIDLTK):  It contains COVID-19 Daily Cases with US basemap, including state and county-level data. However, for the county-level recovered data, it is available till March 17, 2020.
+- [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
+- [Policies and Regulations Timeline ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OAM2JK):Policies and regulations released by the Chinese government, global organizations, western countries, and so on. 
+- [China Health Facilities ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRSGT3):Health facilities POI, such as the hospital in China.
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
