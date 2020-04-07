@@ -16,6 +16,7 @@ This repository contains resources related to COVID-19.
 - [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs): The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.
 - [Coronavirus Tweet Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB): This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) from the Twitter API using Social Feed Manager.
 - [Crowdbreaks](https://www.crowdbreaks.org/en/data_sharing): Tweets with keywords that related to specific health topics. The system is designed to track trends about health and disease-related issues in real-time across different countries. 
+- [Covid-19](http://www.panacealab.org/covid19/): Keywords filtered tweet(coronavirus , 2019nCoV and etc) from February 11th. This dataset contains the tweets and retweets. 
 
 ### Others
 - [CSSE COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data): Daily case reports
