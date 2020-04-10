@@ -12,6 +12,11 @@ This repository contains resources related to COVID-19.
 - [Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/):  All the news and information sites in the U.S., the U.K., France, Italy, and Germany that published materially false information about the virus found by [NewsGuard](www.newsguardtech.com) .  
 - [Malicious URLs](https://github.com/bigheiniu/awesome-coronavirus19-dataset/blob/master/MaliciousURLS.txt): These URLs are malicious urls. 
 
+### Rumor
+- [FEMA](https://www.fema.gov/coronavirus-rumor-control): Help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic.
+- [Defense Department](https://www.defense.gov/Explore/Spotlight/Coronavirus/Rumor-Control/): fact and fiction collected by state and local government.
+- []
+
 ### Twitter
 - [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs): The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.
 - [Coronavirus Tweet Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB): This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) from the Twitter API using Social Feed Manager.
