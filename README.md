@@ -17,7 +17,10 @@ This repository contains resources related to COVID-19.
 - [Defense Department](https://www.defense.gov/Explore/Spotlight/Coronavirus/Rumor-Control/): fact and fiction collected by state and local government.
 - []
 
-### Twitter
+### Social Media
+
+#### Twitter
+
 - [COVID-19-TweetIDs](https://github.com/echen102/COVID-19-TweetIDs): The repository contains an ongoing collection of tweets IDs associated with the novel coronavirus COVID-19 (SARS-CoV-2), which commenced on January 28, 2020.
 - [Coronavirus Tweet Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB): This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) from the Twitter API using Social Feed Manager.
 - [Crowdbreaks](https://www.crowdbreaks.org/en/data_sharing): Tweets with keywords that related to specific health topics. The system is designed to track trends about health and disease-related issues in real-time across different countries. 
@@ -27,7 +30,7 @@ This repository contains resources related to COVID-19.
 - [data-covid19](https://www.aminer.cn/data-covid19/): The scope of the data set includes the epidemic situation, scientific research, knowledge graph, media information and other aspects.
 - [α-Satellite](https://github.com/yes-lab-covid-19/covid-19-dbs): An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19.
 - [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/): It provides an up-to-date source of trusted information and analysis on COVID-19 and coronaviruses, including the latest research articles, information, and commentary from our world-class scientific community.
-### Others
+### Cases Report
 - [CSSE COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data): Daily case reports
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number. 
