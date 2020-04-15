@@ -31,22 +31,27 @@ This repository contains resources related to COVID-19.
 - [α-Satellite](https://github.com/yes-lab-covid-19/covid-19-dbs): An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19.
 - [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/): It provides an up-to-date source of trusted information and analysis on COVID-19 and coronaviruses, including the latest research articles, information, and commentary from our world-class scientific community.
 - [COVID-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/#get-data): Get maps, datasets, applications, and more for coronavirus disease 2019 (COVID-19).
+### Mobility
+- [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
+- [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
+
 ### Case Report
 - [CSSE COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data): Daily case reports
-- [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
+
 - [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset): This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number. 
-- [stayinghomeclub](https://github.com/phildini/stayinghomeclub):  List of companies that are taking steps to address the spread of COVID-19.
+
 - [nCoV2019](https://github.com/beoutbreakprepared/nCoV2019):  Individual-level data from national, provincial, and municipal health reports, as well as additional information from online reports. All data are geo-coded and, where available, include symptoms, key dates (date of onset, admission, and confirmation), and travel history. 
 - [COVID-19_US_County-level_Summaries](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries): We gather a machine readable dataset related to socioeconomic factors that may affect the spread and/or consequences of epidemiological outbreaks, particularly the novel coronavirus (COVID-19).
 - [C3.ai COVID-19 Data Lake](https://c3.ai/covid): A unified, open data image of critical COVID-19 data publicly available at no cost to the global research community beginning on April 13, 2020.
+
 - [US COVID-19 Daily Cases with Basemap]:(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIDLTK):  It contains COVID-19 Daily Cases with US basemap, including state and county-level data. However, for the county-level recovered data, it is available till March 17, 2020.
-- [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
-- [Policies and Regulations Timeline ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OAM2JK):Policies and regulations released by the Chinese government, global organizations, western countries, and so on. 
 - [China Health Facilities ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRSGT3):Health facilities POI, such as the hospital in China.
 - [COVID-19 Metadata](https://github.com/cjvanlissa/COVID19_metadata): A collection of relevant country/city level metadata about the COVID-19 pandemic, made interoperable for secondary analysis. 
 
 ### Others
 - [CoronaQs : FAQs dataset](https://github.com/hmpandey/CoronaQs): HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc. 
+- [Policies and Regulations Timeline ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OAM2JK):Policies and regulations released by the Chinese government, global organizations, western countries, and so on. 
+- [stayinghomeclub](https://github.com/phildini/stayinghomeclub):  List of companies that are taking steps to address the spread of COVID-19.
 
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
