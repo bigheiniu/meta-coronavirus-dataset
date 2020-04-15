@@ -45,5 +45,8 @@ This repository contains resources related to COVID-19.
 - [China Health Facilities ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRSGT3):Health facilities POI, such as the hospital in China.
 - [COVID-19 Metadata](https://github.com/cjvanlissa/COVID19_metadata): A collection of relevant country/city level metadata about the COVID-19 pandemic, made interoperable for secondary analysis. 
 
+### Others
+- [CoronaQs : FAQs dataset](https://github.com/hmpandey/CoronaQs): HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc. 
+
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
