@@ -30,6 +30,7 @@ This repository contains resources related to COVID-19.
 - [data-covid19](https://www.aminer.cn/data-covid19/): The scope of the data set includes the epidemic situation, scientific research, knowledge graph, media information and other aspects.
 - [α-Satellite](https://github.com/yes-lab-covid-19/covid-19-dbs): An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19.
 - [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/): It provides an up-to-date source of trusted information and analysis on COVID-19 and coronaviruses, including the latest research articles, information, and commentary from our world-class scientific community.
+- [COVID-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/#get-data): Get maps, datasets, applications, and more for coronavirus disease 2019 (COVID-19).
 ### Case Report
 - [CSSE COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data): Daily case reports
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
