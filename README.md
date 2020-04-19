@@ -35,6 +35,7 @@ This repository contains resources related to COVID-19.
 - [Google COVID-19](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&filter=category:covid19): a repository of public datasets like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the US Census Bureau's American Community Survey (ACS), and OpenStreetMaps data.
 - [Amazon COVID-19 Data Lake](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/): It contains COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI. 
 - [COVID-19 Pandemic](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response Plan from WHO.
+- [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets ](https://github.com/covid19datahub/COVID19):Provide the research community with a unified data hub by collecting worldwide fine-grained data merged with demographics, air pollution, and other exogenous variables helpful for a better understanding of COVID-19. 
 
 ### Geo-Spatial
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
@@ -43,6 +44,7 @@ This repository contains resources related to COVID-19.
 - [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility):  COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps.  
 
 ### Case Report
+
 - [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19): Cases in Italia.
 
 - [CSSE COVID-19 Dataset](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data): Daily case reports
