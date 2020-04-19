@@ -40,6 +40,7 @@ This repository contains resources related to COVID-19.
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
 - [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
 - [Geographic Distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide): The data file is updated daily and contains the latest available public data on COVID-19.
+- [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility):  COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps.  
 
 ### Case Report
 - [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19): Cases in Italia.
@@ -65,6 +66,6 @@ This repository contains resources related to COVID-19.
 - [SARS-CoV-2 Sequences](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/): this dataset lists the SARS-CoV-2 sequences curently available in GenBank and the Sequence Read Archive (SRA).
 - [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov/global): Genomic epidemiology of novel coronavirus - Global subsampling.
 - [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/): Postman provides a list of API for information exchange. 
-- [Definitive Healthcare Public COVID-19 Data Repository](https://github.com/rsowers-dhc/covid19): hospital bed availability .
+- [Definitive Healthcare Public COVID-19 Data Repository](https://github.com/rsowers-dhc/covid19): hospital bed availability.
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
