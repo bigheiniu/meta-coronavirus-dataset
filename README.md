@@ -28,6 +28,7 @@ This repository contains resources related to COVID-19.
 - [Covid-19](http://www.panacealab.org/covid19/): Keywords filtered tweet(coronavirus , 2019nCoV and etc) from February 11th. This dataset contains the tweets and retweets. 
 
 ### Data Collections
+- [delphi-epidata](https://github.com/cmu-delphi/delphi-epidata): COVID-19 activity level across the U.S. These indicators are derived from a variety of anonymized, aggregated data sources made available by multiple partners.
 - [data-covid19](https://www.aminer.cn/data-covid19/): The scope of the data set includes the epidemic situation, scientific research, knowledge graph, media information and other aspects.
 - [α-Satellite](https://github.com/yes-lab-covid-19/covid-19-dbs): An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19.
 - [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/): It provides an up-to-date source of trusted information and analysis on COVID-19 and coronaviruses, including the latest research articles, information, and commentary from our world-class scientific community.
