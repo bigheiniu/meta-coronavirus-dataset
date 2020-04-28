@@ -12,6 +12,8 @@ This repository contains resources related to COVID-19.
 - [PoliticalFact fact checked](https://www.politifact.com/coronavirus/): PolitiFact has fact-checked a lot of popular social media posts about the virus, including fake coronavirus cures, false news reports and conspiracy theories about the spread. 
 - [Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/):  All the news and information sites in the U.S., the U.K., France, Italy, and Germany that published materially false information about the virus found by [NewsGuard](www.newsguardtech.com) .  
 - [Malicious URLs](https://github.com/bigheiniu/awesome-coronavirus19-dataset/blob/master/MaliciousURLS.txt): These URLs are malicious urls. 
+- [COVID-19 coronavirus news articles](https://www.covid19-archive.com/):  Database of archived COVID-19 coronavirus news articles. The articles are archived on archive.org and archive.today servers. Be patient! 
+- [ COVID-19 Television Coverage Dataset](http://data.gdeltproject.org/blog/2020-coronavirus-narrative/live_tvnews/MASTERFILELIST.TXT): A New Dataset For Exploring The Coronavirus Narrative On Television News.
 
 ### Rumor
 - [FEMA](https://www.fema.gov/coronavirus-rumor-control): Help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic.
@@ -26,6 +28,7 @@ This repository contains resources related to COVID-19.
 - [Coronavirus Tweet Ids](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LW0BTB): This dataset contains the tweet ids of 51,798,932 tweets related to Coronavirus or COVID-19. They were collected between March 3, 2020 and March 19, 2020 (midnight UTC-0) from the Twitter API using Social Feed Manager.
 - [Crowdbreaks](https://www.crowdbreaks.org/en/data_sharing): Tweets with keywords that related to specific health topics. The system is designed to track trends about health and disease-related issues in real-time across different countries. 
 - [Covid-19](http://www.panacealab.org/covid19/): Keywords filtered tweet(coronavirus , 2019nCoV and etc) from February 11th. This dataset contains the tweets and retweets. 
+- [COVID-19 Real World Worry Dataset](https://github.com/ben-aaron188/covid19worry): Measuring Emotions in the COVID-19 Real World Worry Dataset.
 
 ### Data Collections
 - [delphi-epidata](https://github.com/cmu-delphi/delphi-epidata): COVID-19 activity level across the U.S. These indicators are derived from a variety of anonymized, aggregated data sources made available by multiple partners.
