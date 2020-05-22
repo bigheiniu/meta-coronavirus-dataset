@@ -29,6 +29,7 @@ This repository contains resources related to COVID-19.
 - [Crowdbreaks](https://www.crowdbreaks.org/en/data_sharing): Tweets with keywords that related to specific health topics. The system is designed to track trends about health and disease-related issues in real-time across different countries. 
 - [Covid-19](http://www.panacealab.org/covid19/): Keywords filtered tweet(coronavirus , 2019nCoV and etc) from February 11th. This dataset contains the tweets and retweets. 
 - [COVID-19 Real World Worry Dataset](https://github.com/ben-aaron188/covid19worry): Measuring Emotions in the COVID-19 Real World Worry Dataset.
+- [COVID-19 Infodemic Twitter Dataset](https://github.com/firojalam/COVID-19-tweets-for-check-worthiness): Tweets annotated with fine-grained labels related to disinformation about COVID-19. The labels answer seven different questions that are of interests to journalists, fact-checkers, social media platforms, policymakers, and society as a whole. There are annotations for Arabic and English.
 
 ### Data Collections
 - [delphi-epidata](https://github.com/cmu-delphi/delphi-epidata): COVID-19 activity level across the U.S. These indicators are derived from a variety of anonymized, aggregated data sources made available by multiple partners.
