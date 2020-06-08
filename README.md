@@ -19,6 +19,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [FEMA](https://www.fema.gov/coronavirus-rumor-control): Help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic.
 - [Defense Department](https://www.defense.gov/Explore/Spotlight/Coronavirus/Rumor-Control/): fact and fiction collected by state and local government.
 - [UALR-Known Misinformation](http://cosmos.ualr.edu/misinformation): Known misinformation about coronavirus. 
+- [#CoronaVirusFacts Alliance](https://www.poynter.org/coronavirusfactsalliance/): the #CoronaVirusFacts/#DatosCoronaVirus Alliance unites more than 100 fact-checkers around the world in publishing, sharing and translating facts surrounding the new coronavirus. 
 
 ### Social Media
 
