@@ -15,11 +15,12 @@ This repository contains resources related to COVID-19. This data repository is 
 - [COVID-19 coronavirus news articles](https://www.covid19-archive.com/):  Database of archived COVID-19 coronavirus news articles. The articles are archived on archive.org and archive.today servers. Be patient! 
 - [ COVID-19 Television Coverage Dataset](http://data.gdeltproject.org/blog/2020-coronavirus-narrative/live_tvnews/MASTERFILELIST.TXT): A New Dataset For Exploring The Coronavirus Narrative On Television News.
 
-### Rumor
+### Misinformation
 - [FEMA](https://www.fema.gov/coronavirus-rumor-control): Help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic.
 - [Defense Department](https://www.defense.gov/Explore/Spotlight/Coronavirus/Rumor-Control/): fact and fiction collected by state and local government.
 - [UALR-Known Misinformation](http://cosmos.ualr.edu/misinformation): Known misinformation about coronavirus. 
 - [#CoronaVirusFacts Alliance](https://www.poynter.org/coronavirusfactsalliance/): the #CoronaVirusFacts/#DatosCoronaVirus Alliance unites more than 100 fact-checkers around the world in publishing, sharing and translating facts surrounding the new coronavirus. 
+- [covid19-misinfo-data](https://github.com/HLTCHKUST/covid19-misinfo-data): this repository contains Covid19-scientific (CDC, WHO and  MedicalNewsToday) and Covid19-politifact (PolitiFact) fact checked claims. 
 
 ### Social Media
 
