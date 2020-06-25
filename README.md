@@ -49,6 +49,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
 - [Geographic Distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide): The data file is updated daily and contains the latest available public data on COVID-19.
 - [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility):  COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps.  
+- [Covid-19 Community Mobility Reports](https://www.google.com/covid19/mobility/): This dataset provides insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
 
 ### Case Report
 
