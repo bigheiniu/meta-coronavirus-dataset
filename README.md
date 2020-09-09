@@ -77,5 +77,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov/global): Genomic epidemiology of novel coronavirus - Global subsampling.
 - [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com/): Postman provides a list of API for information exchange. 
 - [Definitive Healthcare Public COVID-19 Data Repository](https://github.com/rsowers-dhc/covid19): hospital bed availability.
+- [#COVID19 Government Measures Dataset](https://www.acaps.org/covid19-government-measures-dataset): The #COVID19 Government Measures Dataset puts together all the measures implemented by governments worldwide in response to the Coronavirus pandemic. Data collection includes secondary data review. The researched information available falls into five categories: Social distancing, Movement restrictions, Public health measures, Social and economic measures, Lockdowns.
+
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/bigheiniu/awesome-coronavirus19-dataset/pulls) or email ([yichuan1@asu.edu](mailto:yichuan1@asu.edu)) / ([dmahudes@asu.edu](mailto:dmahudes@asu.edu)) / ([kai.shu@asu.edu](mailto:kai.shu@asu.edu)) to add resources.
