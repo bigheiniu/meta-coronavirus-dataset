@@ -43,6 +43,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [Amazon COVID-19 Data Lake](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/): It contains COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI. 
 - [COVID-19 Pandemic](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response Plan from WHO.
 - [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets ](https://github.com/covid19datahub/COVID19):Provide the research community with a unified data hub by collecting worldwide fine-grained data merged with demographics, air pollution, and other exogenous variables helpful for a better understanding of COVID-19. 
+- [COVID-19 Public Repository Data](https://github.com/github/covid-19-repo-data): A comprehensive versioned dataset of the repositories and relevant related metadata about public projects hosted on GitHub related to the 2019 Novel Coronavirus and associated COVID-19 disease.
 
 ### Geo-Spatial
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
