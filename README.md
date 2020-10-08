@@ -1,4 +1,4 @@
-# awesome-coronavirus19-dataset
+# MetaCovid
 This repository contains resources related to COVID-19. This data repository is maintained by [DMML](http://dmml.asu.edu/) lab at Arizona State University. 
 
 
