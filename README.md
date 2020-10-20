@@ -6,8 +6,9 @@ This repository contains resources related to COVID-19. This data repository is 
 #### Pre-print
 - [covid-19-social-science-research](https://github.com/natematias/covid-19-social-science-research/):This resource is designed to help us track new social research about COVID 19, including published findings, pre-prints, projects underway, and projects that are at least at a solid proposal stage.
 - [CORD-19](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge): CORD-19 is a resource of over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. 
-- [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/#data-download): a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.
+
 #### Published
+- [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/#data-download): a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.
 
 ### News
 
