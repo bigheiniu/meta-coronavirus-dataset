@@ -3,11 +3,15 @@ This repository contains resources related to COVID-19. This data repository is 
 
 
 ### Academics
+#### Pre-print
 - [covid-19-social-science-research](https://github.com/natematias/covid-19-social-science-research/):This resource is designed to help us track new social research about COVID 19, including published findings, pre-prints, projects underway, and projects that are at least at a solid proposal stage.
 - [CORD-19](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge): CORD-19 is a resource of over 44,000 scholarly articles, including over 29,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. 
 - [LitCovid](https://www.ncbi.nlm.nih.gov/research/coronavirus/#data-download): a curated literature hub for tracking up-to-date scientific information about the 2019 novel Coronavirus.
+#### Published
 
 ### News
+
+#### Fact Checked
 - [nCovMemory-en](https://github.com/memoryhonest/nCovMemory-en): This is a repository dedicated to the English translations of the relevant news reports on the 2019-nCoV outbreak and the resulting epidemic of the Novel Coronavirus Pneumonia (NCP) in China.
 - [PoliticalFact fact checked](https://www.politifact.com/coronavirus/): PolitiFact has fact-checked a lot of popular social media posts about the virus, including fake coronavirus cures, false news reports and conspiracy theories about the spread. 
 - [Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/):  All the news and information sites in the U.S., the U.K., France, Italy, and Germany that published materially false information about the virus found by [NewsGuard](www.newsguardtech.com) .  
@@ -15,7 +19,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [COVID-19 coronavirus news articles](https://www.covid19-archive.com/):  Database of archived COVID-19 coronavirus news articles. The articles are archived on archive.org and archive.today servers. Be patient! 
 - [ COVID-19 Television Coverage Dataset](http://data.gdeltproject.org/blog/2020-coronavirus-narrative/live_tvnews/MASTERFILELIST.TXT): A New Dataset For Exploring The Coronavirus Narrative On Television News.
 
-### Misinformation
+#### Rumor
 - [FEMA](https://www.fema.gov/coronavirus-rumor-control): Help the public distinguish between rumors and facts regarding the response to coronavirus (COVID-19) pandemic.
 - [Defense Department](https://www.defense.gov/Explore/Spotlight/Coronavirus/Rumor-Control/): fact and fiction collected by state and local government.
 - [UALR-Known Misinformation](http://cosmos.ualr.edu/misinformation): Known misinformation about coronavirus. 
@@ -33,18 +37,6 @@ This repository contains resources related to COVID-19. This data repository is 
 - [COVID-19 Real World Worry Dataset](https://github.com/ben-aaron188/covid19worry): Measuring Emotions in the COVID-19 Real World Worry Dataset.
 - [COVID-19 Infodemic Twitter Dataset](https://github.com/firojalam/COVID-19-tweets-for-check-worthiness): Tweets annotated with fine-grained labels related to disinformation about COVID-19. The labels answer seven different questions that are of interests to journalists, fact-checkers, social media platforms, policymakers, and society as a whole. There are annotations for Arabic and English.
 
-### Data Collections
-- [delphi-epidata](https://github.com/cmu-delphi/delphi-epidata): COVID-19 activity level across the U.S. These indicators are derived from a variety of anonymized, aggregated data sources made available by multiple partners.
-- [data-covid19](https://www.aminer.cn/data-covid19/): The scope of the data set includes the epidemic situation, scientific research, knowledge graph, media information and other aspects.
-- [α-Satellite](https://github.com/yes-lab-covid-19/covid-19-dbs): An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19.
-- [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/): It provides an up-to-date source of trusted information and analysis on COVID-19 and coronaviruses, including the latest research articles, information, and commentary from our world-class scientific community.
-- [COVID-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/#get-data): Get maps, datasets, applications, and more for coronavirus disease 2019 (COVID-19).
-- [Google COVID-19](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&filter=category:covid19): a repository of public datasets like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the US Census Bureau's American Community Survey (ACS), and OpenStreetMaps data.
-- [Amazon COVID-19 Data Lake](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/): It contains COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI. 
-- [COVID-19 Pandemic](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response Plan from WHO.
-- [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets ](https://github.com/covid19datahub/COVID19):Provide the research community with a unified data hub by collecting worldwide fine-grained data merged with demographics, air pollution, and other exogenous variables helpful for a better understanding of COVID-19. 
-- [COVID-19 Public Repository Data](https://github.com/github/covid-19-repo-data): A comprehensive versioned dataset of the repositories and relevant related metadata about public projects hosted on GitHub related to the 2019 Novel Coronavirus and associated COVID-19 disease.
-
 ### Geo-Spatial
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
 - [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
@@ -52,7 +44,10 @@ This repository contains resources related to COVID-19. This data repository is 
 - [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility):  COVID‑19 mobility trends in countries/regions and cities. Reports are published daily and reflect requests for directions in Apple Maps.  
 - [Covid-19 Community Mobility Reports](https://www.google.com/covid19/mobility/): This dataset provides insights into what has changed in response to policies aimed at combating COVID-19. The reports chart movement trends over time by geography, across different categories of places such as retail and recreation, groceries and pharmacies, parks, transit stations, workplaces, and residential.
 
-### Case Report
+
+### Epidemic Report
+
+#### Case Report
 
 - [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19): Cases in Italia.
 
@@ -67,8 +62,23 @@ This repository contains resources related to COVID-19. This data repository is 
 - [US COVID-19 Daily Cases with Basemap]:(https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HIDLTK):  It contains COVID-19 Daily Cases with US basemap, including state and county-level data. However, for the county-level recovered data, it is available till March 17, 2020.
 - [China Health Facilities ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRSGT3):Health facilities POI, such as the hospital in China.
 - [COVID-19 Metadata](https://github.com/cjvanlissa/COVID19_metadata): A collection of relevant country/city level metadata about the COVID-19 pandemic, made interoperable for secondary analysis. 
-- [California COVID-19 Hospital Data and Case Statistics](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics):  California COVID-19 Hospital Data and Case Statistics.
 - [NY COVID-19](https://www1.nyc.gov/site/doh/covid/covid-19-data.page): The most recent information collected about people who have tested positive for COVID-19 in NYC.
+#### Resource Report
+- [California COVID-19 Hospital Data and Case Statistics](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics):  California COVID-19 Hospital Data and Case Statistics.
+
+### Data Collections
+- [delphi-epidata](https://github.com/cmu-delphi/delphi-epidata): COVID-19 activity level across the U.S. These indicators are derived from a variety of anonymized, aggregated data sources made available by multiple partners.
+- [data-covid19](https://www.aminer.cn/data-covid19/): The scope of the data set includes the epidemic situation, scientific research, knowledge graph, media information and other aspects.
+- [α-Satellite](https://github.com/yes-lab-covid-19/covid-19-dbs): An AI-driven System and Benchmark Datasets for Hierarchical Community-level Risk Assessment to Help Combat COVID-19.
+- [Coronavirus Knowledge Hub](https://coronavirus.frontiersin.org/): It provides an up-to-date source of trusted information and analysis on COVID-19 and coronaviruses, including the latest research articles, information, and commentary from our world-class scientific community.
+- [COVID-19 GIS Hub](https://coronavirus-disasterresponse.hub.arcgis.com/#get-data): Get maps, datasets, applications, and more for coronavirus disease 2019 (COVID-19).
+- [Google COVID-19](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&filter=category:covid19): a repository of public datasets like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the US Census Bureau's American Community Survey (ACS), and OpenStreetMaps data.
+- [Amazon COVID-19 Data Lake](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/): It contains COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI. 
+- [COVID-19 Pandemic](https://data.humdata.org/event/covid-19): COVID-19 Pandemic in Locations with a Humanitarian Response Plan from WHO.
+- [Coronavirus COVID-19 (2019-nCoV) Epidemic Datasets ](https://github.com/covid19datahub/COVID19):Provide the research community with a unified data hub by collecting worldwide fine-grained data merged with demographics, air pollution, and other exogenous variables helpful for a better understanding of COVID-19. 
+- [COVID-19 Public Repository Data](https://github.com/github/covid-19-repo-data): A comprehensive versioned dataset of the repositories and relevant related metadata about public projects hosted on GitHub related to the 2019 Novel Coronavirus and associated COVID-19 disease.
+
+
 ### Others
 - [CoronaQs : FAQs dataset](https://github.com/hmpandey/CoronaQs): HTML renderable dataset of FAQs with label collected from various trusted resources like government, UN, WHO etc. 
 - [Policies and Regulations Timeline ](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OAM2JK):Policies and regulations released by the Chinese government, global organizations, western countries, and so on. 
