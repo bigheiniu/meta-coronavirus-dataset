@@ -39,6 +39,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [COVID-19 Infodemic Twitter Dataset](https://github.com/firojalam/COVID-19-tweets-for-check-worthiness): Tweets annotated with fine-grained labels related to disinformation about COVID-19. The labels answer seven different questions that are of interests to journalists, fact-checkers, social media platforms, policymakers, and society as a whole. There are annotations for Arabic and English.
 
 ### Geo-Spatial
+#### Mobility
 - [COVID-19 Mobility Monitoring project](https://covid19mm.github.io/in-progress/2020/03/13/first-report-assessment.html): Mobility data in Italy. Location is collected anonymously from opted in users through smartphone applications.
 - [Baidu Mobility Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FAEZIO): The data is scraped from Baidu Migration website.
 - [Geographic Distribution of COVID-19 cases worldwide](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide): The data file is updated daily and contains the latest available public data on COVID-19.
