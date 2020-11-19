@@ -16,7 +16,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [nCovMemory-en](https://github.com/memoryhonest/nCovMemory-en): This is a repository dedicated to the English translations of the relevant news reports on the 2019-nCoV outbreak and the resulting epidemic of the Novel Coronavirus Pneumonia (NCP) in China.
 - [PoliticalFact fact checked](https://www.politifact.com/coronavirus/): PolitiFact has fact-checked a lot of popular social media posts about the virus, including fake coronavirus cures, false news reports and conspiracy theories about the spread. 
 - [Coronavirus Misinformation Tracking Center](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/):  All the news and information sites in the U.S., the U.K., France, Italy, and Germany that published materially false information about the virus found by [NewsGuard](www.newsguardtech.com) .  
-- [Malicious URLs](https://github.com/bigheiniu/awesome-coronavirus19-dataset/blob/master/MaliciousURLS.txt): These URLs are malicious urls. 
+- [Malicious URLs](https://github.com/bigheiniu/awesome-coronavirus19-dataset/blob/master/MaliciousURLS.txt): These URLs are malicious urls checked by [NewsGuard](https://www.newsguardtech.com/coronavirus-misinformation-tracking-center/). 
 - [COVID-19 coronavirus news articles](https://www.covid19-archive.com/):  Database of archived COVID-19 coronavirus news articles. The articles are archived on archive.org and archive.today servers. Be patient! 
 - [ COVID-19 Television Coverage Dataset](http://data.gdeltproject.org/blog/2020-coronavirus-narrative/live_tvnews/MASTERFILELIST.TXT): A New Dataset For Exploring The Coronavirus Narrative On Television News.
 
