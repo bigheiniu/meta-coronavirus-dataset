@@ -37,6 +37,7 @@ This repository contains resources related to COVID-19. This data repository is 
 - [Covid-19](http://www.panacealab.org/covid19/): Keywords filtered tweet(coronavirus , 2019nCoV and etc) from February 11th. This dataset contains the tweets and retweets. 
 - [COVID-19 Real World Worry Dataset](https://github.com/ben-aaron188/covid19worry): Measuring Emotions in the COVID-19 Real World Worry Dataset.
 - [COVID-19 Infodemic Twitter Dataset](https://github.com/firojalam/COVID-19-tweets-for-check-worthiness): Tweets annotated with fine-grained labels related to disinformation about COVID-19. The labels answer seven different questions that are of interests to journalists, fact-checkers, social media platforms, policymakers, and society as a whole. There are annotations for Arabic and English.
+- [CoVaxxy](https://github.com/osome-iu/CoVaxxy): A collection of English-language Twitter posts about COVID-19 vaccines.
 
 ### Geo-Spatial
 #### Mobility
